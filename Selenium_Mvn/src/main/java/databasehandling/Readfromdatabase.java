@@ -13,7 +13,7 @@ public class Readfromdatabase {
 //connect to db
 //firequeries
 //exit from database
-		//dummy
+		
 		  String url = "jdbc:mysql://localhost:3306/";
 		  //String driver = "com.mysql.jdbc.Driver";
           String dbName = "gyanvriksh";
